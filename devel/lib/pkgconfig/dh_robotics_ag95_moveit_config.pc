@@ -1,0 +1,8 @@
+prefix=/home/gavin/robot_PKU/handwriting/devel
+
+Name: dh_robotics_ag95_moveit_config
+Description: Description of dh_robotics_ag95_moveit_config
+Version: 0.2.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

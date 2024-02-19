@@ -1,0 +1,8 @@
+prefix=/home/gavin/robot_PKU/handwriting/devel
+
+Name: sdelay_launch
+Description: Description of sdelay_launch
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

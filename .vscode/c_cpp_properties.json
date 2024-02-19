@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/gavin/robot_PKU/handwriting/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/gavin/robot_PKU/handwriting/src/dh_gripper_ros/dh_gripper_driver/include/**",
+        "/home/gavin/robot_PKU/handwriting/src/dh_gripper_ros/dh_robotics_ag95_gripper/dh_robotics_ag95_simulation/roboticsgroup_gazebo_plugins/include/**",
+        "/home/gavin/robot_PKU/handwriting/src/ur3_ag95_gazebo/include/**",
+        "/home/gavin/robot_PKU/handwriting/src/universal_robot/ur_kinematics/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

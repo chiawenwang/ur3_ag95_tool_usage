@@ -1,0 +1,8 @@
+prefix=/home/gavin/robot_PKU/handwriting/install
+
+Name: ur3_robotiq85_gazebo
+Description: Description of ur3_robotiq85_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

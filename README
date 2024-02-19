@@ -1,0 +1,11 @@
+# start simulation(rviz + gazebo)
+'roslaunch ur3_ag95_gazebo load_gazebo.launch limited:=true'
+
+# connect real robot arm
+' roslaunch ur_robot_driver ur3_bringup.launch robot_ip:109.168.100.10 limited:=true '
+
+'roslaunch ur3_moveit_config ur3_moveit_planning_execution.launch'
+
+'roslaunch ur3_moveit_config moveit_rviz.launch config:=true'
+
+注意一下仿真和真实的控制器不一样

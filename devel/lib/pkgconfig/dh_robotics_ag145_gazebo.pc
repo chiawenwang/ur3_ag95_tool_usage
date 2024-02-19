@@ -1,0 +1,8 @@
+prefix=/home/gavin/robot_PKU/handwriting/devel
+
+Name: dh_robotics_ag145_gazebo
+Description: Description of dh_robotics_ag145_gazebo
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

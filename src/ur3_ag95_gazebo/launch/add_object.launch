@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+
+  <!--models-->
+  <node name="table" pkg="gazebo_ros" type="spawn_model" args="-file $(find ur3_ag95_gazebo)/urdf/cafe_table/model.sdf -sdf -model table -x 0.0 -y 0.75 -z 0.0" />
+  
+</launch>

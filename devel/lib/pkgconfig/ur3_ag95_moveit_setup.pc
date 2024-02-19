@@ -1,0 +1,8 @@
+prefix=/home/gavin/robot_PKU/handwriting/devel
+
+Name: ur3_ag95_moveit_setup
+Description: Description of ur3_ag95_moveit_setup
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

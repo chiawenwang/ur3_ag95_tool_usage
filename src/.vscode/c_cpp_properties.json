@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/gavin/robot_PKU/handwriting/src/UR5_gripper_camera_gazebo/gripper_breakdown_solution-master/gazebo_plugins/gazebo_grasp_plugin/include/**",
+        "/home/gavin/robot_PKU/handwriting/src/UR5_gripper_camera_gazebo/gazebo-pkgs/gazebo_state_plugins/include/**",
+        "/home/gavin/robot_PKU/handwriting/src/UR5_gripper_camera_gazebo/gazebo-pkgs/gazebo_test_tools/include/**",
+        "/home/gavin/robot_PKU/handwriting/src/UR5_gripper_camera_gazebo/gripper_breakdown_solution-master/gazebo_plugins/gazebo_version_helpers/include/**",
+        "/home/gavin/robot_PKU/handwriting/src/UR5_gripper_camera_gazebo/gazebo-pkgs/gazebo_world_plugin_loader/include/**",
+        "/home/gavin/robot_PKU/handwriting/src/UR5_gripper_camera_gazebo/general-message-pkgs/object_msgs_tools/include/**",
+        "/home/gavin/robot_PKU/handwriting/src/UR5_gripper_camera_gazebo/gripper_breakdown_solution-master/gazebo_plugins/roboticsgroup_gazebo_plugins/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

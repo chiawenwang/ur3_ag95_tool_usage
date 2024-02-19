@@ -1,0 +1,35 @@
+# CMake generated Testfile for 
+# Source directory: /home/gavin/robot_PKU/handwriting/src
+# Build directory: /home/gavin/robot_PKU/handwriting/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs("gtest")
+subdirs("dh_gripper_ros/dh_robotics_ag145_gripper/dh_robotics_ag145_simulation/dh_robotics_ag145_gazebo")
+subdirs("dh_gripper_ros/dh_robotics_ag145_gripper/dh_robotics_ag145_simulation/dh_robotics_ag145_simulation")
+subdirs("dh_gripper_ros/dh_robotics_ag95_gripper/dh_robotics_ag95_simulation/dh_robotics_ag95_gazebo")
+subdirs("dh_gripper_ros/dh_robotics_ag95_gripper/dh_robotics_ag95_simulation/dh_robotics_ag95_simulation")
+subdirs("universal_robot/universal_robots")
+subdirs("ur3_ag95_moveit_setup")
+subdirs("dh_gripper_ros/dh_gripper_msgs")
+subdirs("dh_gripper_ros/dh_robotics_ag145_gripper/dh_robotics_ag145_description")
+subdirs("dh_gripper_ros/dh_robotics_ag95_gripper/dh_robotics_ag95_description")
+subdirs("dh_gripper_ros/dh_robotics_ag95_gripper/sdelay_launch")
+subdirs("dh_gripper_ros/dh_gripper_driver")
+subdirs("dh_gripper_ros/dh_robotics_ag95_gripper/dh_robotics_ag95_simulation/roboticsgroup_gazebo_plugins")
+subdirs("universal_robot/ur10_moveit_config")
+subdirs("universal_robot/ur10e_moveit_config")
+subdirs("universal_robot/ur16e_moveit_config")
+subdirs("ur3_ag95_gazebo")
+subdirs("universal_robot/ur3_moveit_config")
+subdirs("universal_robot/ur3e_moveit_config")
+subdirs("universal_robot/ur5_moveit_config")
+subdirs("universal_robot/ur5e_moveit_config")
+subdirs("universal_robot/ur_description")
+subdirs("universal_robot/ur_gazebo")
+subdirs("realsense_ros_gazebo")
+subdirs("dh_gripper_ros/dh3_urdf")
+subdirs("dh_gripper_ros/dh_pgc140_urdf")
+subdirs("dh_gripper_ros/dh_robotics_ag145_gripper/dh_robotics_ag145_moveit_config")
+subdirs("dh_gripper_ros/dh_robotics_ag95_gripper/dh_robotics_ag95_moveit_config")
+subdirs("universal_robot/ur_kinematics")

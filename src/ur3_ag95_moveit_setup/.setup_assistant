@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ur3_ag95_gazebo
+    relative_path: urdf/ur3_ag95.urdf.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/ur3_ag95.srdf
+  CONFIG:
+    author_name: Gavin
+    author_email: chiawenw@stu.pku.edu.cn
+    generated_timestamp: 1705414754

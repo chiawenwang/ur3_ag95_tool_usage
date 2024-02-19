@@ -1,0 +1,8 @@
+prefix=/home/gavin/robot_PKU/handwriting/devel
+
+Name: ur3_ag95_gazebo
+Description: Description of ur3_ag95_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lur3_robotiq85_gazebo
+Requires: 
